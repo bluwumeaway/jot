@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.1 - 2024-08-15
+- Add Support for hard line breaks via `\\n`.
+
 ## v1.0.0 - 2024-05-25
 
 - Support added for images.
